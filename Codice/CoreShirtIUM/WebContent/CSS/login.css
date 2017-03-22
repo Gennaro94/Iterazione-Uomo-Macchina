@@ -1,0 +1,26 @@
+.login{
+	background-color:#0791f5;
+	text-align:center;
+	width:500px;
+	margin:0 auto;
+	margin-bottom:
+	margin-top:60px;
+	}
+
+.login_fieldset {
+	
+	height:230px;
+	line-height: 3;
+	border-color:black;
+	border-radius:20px;
+	background-color:#ffffff;
+}
+
+.burton{
+	
+	width:60px;
+	height:30px;
+	background-color: #87CEEB;
+	border-radius:10%;
+	border:2px solid #0a8ae9;
+}
